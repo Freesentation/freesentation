@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'Freesentation';
+    src: url('https://cdn.jsdelivr.net/gh/Freesentation/freesentation@main/woff2/Freesentation-1Thin.woff2') format('woff2');
+    font-weight: 100;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Freesentation';
+    src: url('https://cdn.jsdelivr.net/gh/Freesentation/freesentation@main/woff2/Freesentation-2ExtraLight.woff2') format('woff2');
+    font-weight: 200;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Freesentation';
+    src: url('https://cdn.jsdelivr.net/gh/Freesentation/freesentation@main/woff2/Freesentation-3Light.woff2') format('woff2');
+    font-weight: 300;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Freesentation';
+    src: url('https://cdn.jsdelivr.net/gh/Freesentation/freesentation@main/woff2/Freesentation-4Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Freesentation';
+    src: url('https://cdn.jsdelivr.net/gh/Freesentation/freesentation@main/woff2/Freesentation-5Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Freesentation';
+    src: url('https://cdn.jsdelivr.net/gh/Freesentation/freesentation@main/woff2/Freesentation-6SemiBold.woff2') format('woff2');
+    font-weight: 600;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Freesentation';
+    src: url('https://cdn.jsdelivr.net/gh/Freesentation/freesentation@main/woff2/Freesentation-7Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Freesentation';
+    src: url('https://cdn.jsdelivr.net/gh/Freesentation/freesentation@main/woff2/Freesentation-8ExtraBold.woff2') format('woff2');
+    font-weight: 800;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Freesentation';
+    src: url('https://cdn.jsdelivr.net/gh/Freesentation/freesentation@main/woff2/Freesentation-9Black.woff2') format('woff2');
+    font-weight: 900;
+    font-display: swap;
+}
